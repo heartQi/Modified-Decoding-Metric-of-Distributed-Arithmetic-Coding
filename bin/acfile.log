@@ -1,0 +1,6 @@
+﻿  acfile.cpp
+c:\users\abc\desktop\源文件pycx\acfile\acfile.cpp(310): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+c:\users\abc\desktop\源文件pycx\acfile\acfile.cpp(430): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+acfile.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  acfile.vcxproj -> C:\Users\abc\Desktop\源文件Pycx\acfile\..\bin\acfile.exe
+  acfile.vcxproj -> .\Debug/acfile.pdb (Full PDB)

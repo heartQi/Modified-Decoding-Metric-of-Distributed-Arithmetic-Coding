@@ -1,0 +1,13 @@
+﻿  acfile.cpp
+acfile.cpp(310): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+acfile.cpp(430): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  arithmetic_codec.cpp
+  Profiler.cpp
+  report.cpp
+  sconfig.cpp
+  tools.cpp
+  正在生成代码...
+  rand.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(F:\final results\源文件解码过程修改选取序列\send05\N200\acfile\.\Release\acfile.exe) does not match the Linker's OutputFile property value (F:\final results\源文件解码过程修改选取序列\send05\N200\bin\acfile.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  acfile.vcxproj -> F:\final results\源文件解码过程修改选取序列\send05\N200\acfile\.\Release\acfile.exe
+  acfile.vcxproj -> .\Release/acfile.pdb (Full PDB)
